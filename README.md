@@ -34,5 +34,7 @@ url = "https://m.weibo.cn/api/container/getIndex?type=wb&queryVal={}&containerid
 #### 基于所整理json格式的数据，使用 jieba 分词器的 TF-IDF 关键词提取，需要对其中的文本去除大量的停用词，例如（你，我，他，这，是）。
 #### 将上一步得到的关键词用空格串联起来形成一个字符串，以及一幅底层图像一并传入 wordcloud。
 
+---
+
 ### 案例：
-![Jobs](图片链接 "jobs_wc.png")
+![Jobs]("jobs_wc.png")
