@@ -37,4 +37,4 @@ url = "https://m.weibo.cn/api/container/getIndex?type=wb&queryVal={}&containerid
 ---
 
 ### 案例：
-![Jobs]("jobs_wc.png")
+![乔布斯]("https://github.com/Mark-Xue/wordcloud/blob/master/jobs_wc.png")
